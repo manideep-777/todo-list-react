@@ -1,0 +1,13 @@
+.backgroundColor{
+    background-color: #FAFBED;
+}
+
+.navColor{
+    background-color: #E0C389;
+}
+
+
+.hoverBtn:hover{
+    background-color: #eedcc2;   
+}
+
