@@ -1,8 +1,41 @@
-# React + Vite
+# To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
+The **To-Do List App** is a simple and interactive web application that helps users organize their tasks efficiently. Built using **React.js, Tailwind CSS, and Node.js**, this project enhances front-end development skills while introducing backend functionalities for persistent task management.
 
-Currently, two official plugins are available:
+## 🛠️ Technologies Used
+- **React.js** – For building the user interface
+- **Tailwind CSS** – For styling and responsiveness
+- **Node.js** – For backend API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
+✅ Add, edit, and delete tasks
+✅ Mark tasks as completed
+✅ Store tasks in MongoDB for persistence
+✅ Responsive UI for desktop and mobile
+✅ Error handling and form validation
+✅ Local Storage for task persistence (optional fallback)
+
+## 🚀 How to Run This Project
+
+### **1. Clone the Repository**
+```bash
+ git clone <repository-link>
+ cd project-folder
+```
+
+### **4. Install Frontend Dependencies**
+```bash
+ cd frontend
+ npm install
+```
+
+### **5. Start Frontend Development Server**
+```bash
+ npm run dev
+```
+The application will be accessible at **http://localhost:3000**.
+
+### 🎯 Happy Coding!
+
+
