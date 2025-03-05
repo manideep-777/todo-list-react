@@ -34,7 +34,7 @@ The **To-Do List App** is a simple and interactive web application that helps us
 ```bash
  npm run dev
 ```
-The application will be accessible at **http://localhost:3000**.
+The application will be accessible at **http://localhost:5173**.
 
 ### 🎯 Happy Coding!
 
